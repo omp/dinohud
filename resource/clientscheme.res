@@ -2366,6 +2366,58 @@ Scheme
 			}
 		}
 
+		"Ubuntu24"
+		{
+			"1"
+			{
+				"name"		"Ubuntu"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"UbuntuBold48"
+		{
+			"1"
+			{
+				"name"		"Ubuntu-Bold"
+				"tall"		"48"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+
+		"Roboto8"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Roboto9"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Roboto11"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 	}
 
 	//
@@ -3857,5 +3909,20 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}			
+		"7"
+		{
+			"font" "resource/Ubuntu-R.ttf"
+			"name" "Ubuntu"
+		}
+		"8"
+		{
+			"font" "resource/Ubuntu-B.ttf"
+			"name" "Ubuntu-Bold"
+		}
+		"9"
+		{
+			"font" "resource/Roboto-Regular.ttf"
+			"name" "Roboto"
+		}
 	}
 }
