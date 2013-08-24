@@ -253,7 +253,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_WheelOfDoom"
 		"xpos"			"0"
-		"ypos"			"36"
+		"ypos"			"37" // omp -- +1 aesthetic adjustment.
 		"zpos"			"7"
 		"wide"			"32"
 		"tall"			"32"
