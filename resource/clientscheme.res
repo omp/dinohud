@@ -27,6 +27,9 @@ Scheme
 		"OmpAmmoInReserve"	"255 255 255 255"
 		"OmpAmmoNoClip"		"255 255 255 255"
 
+		"OmpPositive"		"125 225 30 255"
+		"OmpNegative"		"225 30 30 255"
+
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -2324,6 +2327,16 @@ Scheme
 			}
 		}
 
+		"Ubuntu16"
+		{
+			"1"
+			{
+				"name"		"Ubuntu"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 		"Ubuntu24"
 		{
 			"1"
