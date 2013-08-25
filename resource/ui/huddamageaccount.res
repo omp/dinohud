@@ -9,8 +9,8 @@
 		"PositiveColor"			"125 225 30 255"
 		"NegativeColor"			"255 255 30 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"Ubuntu24"
-		"delta_item_font_big"	"Ubuntu24"
+		"delta_item_font"		"UbuntuBold20"
+		"delta_item_font_big"	"UbuntuBold20"
 	}
 	"CDamageAccountValue"
 	{

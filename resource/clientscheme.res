@@ -2348,6 +2348,26 @@ Scheme
 			}
 		}
 
+		"UbuntuBold16"
+		{
+			"1"
+			{
+				"name"		"Ubuntu-Bold"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"UbuntuBold20"
+		{
+			"1"
+			{
+				"name"		"Ubuntu-Bold"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 		"UbuntuBold48"
 		{
 			"1"
