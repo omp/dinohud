@@ -77,7 +77,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
 		"font"			"UbuntuBold48"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"OmpHealth"
 	}								
 	"PlayerStatusHealthValueShadow"
 	{
@@ -93,7 +93,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"east"	
 		"font"			"UbuntuBold48"
-		"fgcolor"		"30 30 30 125"
+		"fgcolor"		"OmpShadow"
 	}								
 	"PlayerStatusBleedImage"
 	{
