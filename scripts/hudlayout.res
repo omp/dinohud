@@ -19,7 +19,7 @@
 		"xpos"	"c100"
 		"ypos"	"c66"
 		"wide"	"110"
-		"tall"	"70"
+		"tall"	"68"
 	}
 	
 	HudObjectiveStatus
@@ -73,7 +73,7 @@
 		"xpos"			"c-100"
 		"ypos"			"c66"
 		"wide"			"310"
-		"tall"			"70"
+		"tall"			"68"
 	}
 	
 	HudDemomanCharge
@@ -205,7 +205,7 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"c-210"
-		"ypos"					"c134"
+		"ypos"					"c132"
 		"wide"					"110"
 		"tall"  				"20"
 		"visible" 				"1"
