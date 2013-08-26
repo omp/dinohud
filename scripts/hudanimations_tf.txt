@@ -207,8 +207,10 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.2
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.2 0.4
 
-	Animate SpectatorGUIHealthValue		FgColor		"125 225 30 255"	Linear 0.0 0.0
-	Animate SpectatorGUIHealthBGBonus	Alpha		"255"				Linear 0.0 0.0
+	Animate PlayerStatusHealthValue		FgColor		"OmpHealthBonus"	Linear 0.0 0.0
+
+	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealthBonus"	Linear 0.0 0.0
+	Animate SpectatorGUIHealthBGBonus	Alpha		"255"						Linear 0.0 0.0
 
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -221,8 +223,10 @@ event HudHealthBonusPulseLoop
 
 event HudHealthBonusPulseStop
 {
-	Animate SpectatorGUIHealthValue		FgColor		"OmpText"			Linear 0.0 0.0
-	Animate SpectatorGUIHealthBGBonus	Alpha		"0"					Linear 0.0 0.0
+	Animate PlayerStatusHealthValue		FgColor		"OmpHealth"			Linear 0.0 0.0
+
+	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
+	Animate SpectatorGUIHealthBGBonus	Alpha		"0"							Linear 0.0 0.0
 
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
@@ -236,8 +240,10 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.125 0.075
 
-	Animate SpectatorGUIHealthValue		FgColor		"255 200 30 255"	Linear 0.0 0.0
-	Animate SpectatorGUIHealthBGDying	Alpha		"255"				Linear 0.0 0.0
+	Animate PlayerStatusHealthValue		FgColor		"OmpHealthDying"	Linear 0.0 0.0
+
+	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealthDying"	Linear 0.0 0.0
+	Animate SpectatorGUIHealthBGDying	Alpha		"255"						Linear 0.0 0.0
 	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
@@ -250,8 +256,10 @@ event HudHealthDyingPulseLoop
 
 event HudHealthDyingPulseStop
 {
-	Animate SpectatorGUIHealthValue		FgColor		"OmpText"			Linear 0.0 0.0
-	Animate SpectatorGUIHealthBGDying	Alpha		"0"					Linear 0.0 0.0
+	Animate PlayerStatusHealthValue		FgColor		"OmpHealth"			Linear 0.0 0.0
+
+	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
+	Animate SpectatorGUIHealthBGDying	Alpha		"0"							Linear 0.0 0.0
 
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
@@ -263,6 +271,10 @@ event HudLowAmmoPulse
 {
 	Animate	HudWeaponLowAmmoImage		Alpha		"255"		Linear 0.0 0.075
 	Animate	HudWeaponLowAmmoImage		Alpha		"0"			Linear 0.125 0.075
+
+	Animate AmmoInClip		FgColor		"OmpAmmoInClipLow"		Linear 0.0 0.0
+	Animate	AmmoInReserve	FgColor		"OmpAmmoInReserveLow"	Linear 0.0 0.0
+	Animate AmmoNoClip		FgColor		"OmpAmmoNoClipLow"		Linear 0.0 0.0
 	
 	RunEvent HudLowAmmoPulseLoop	0.25
 }
@@ -275,6 +287,10 @@ event HudLowAmmoPulseLoop
 
 event HudLowAmmoPulseStop
 {
+	Animate AmmoInClip		FgColor		"OmpAmmoInClip"			Linear 0.0 0.0
+	Animate	AmmoInReserve	FgColor		"OmpAmmoInReserve"		Linear 0.0 0.0
+	Animate AmmoNoClip		FgColor		"OmpAmmoNoClip"			Linear 0.0 0.0
+
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 }

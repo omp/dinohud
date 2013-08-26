@@ -18,17 +18,37 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
-		"OmpText"			"255 255 255 255"
-		"OmpShadow"			"30 30 30 125"
+		"OmpText"		"255 255 255 255"
+		"OmpShadow"		"30 30 30 125"
+
+		"OmpBackground"			"30 30 30 225"
+		"OmpBackgroundBright"	"225 225 225 225"
+
+		"OmpPositive"	"125 225 30 255"
+		"OmpNegative"	"225 30 30 255"
 
 		"OmpHealth"			"255 255 255 255"
+		"OmpHealthBonus"	"125 225 30 255"
+		"OmpHealthDying"	"225 30 30 255"
 
-		"OmpAmmoInClip"		"255 255 255 255"
-		"OmpAmmoInReserve"	"255 255 255 255"
-		"OmpAmmoNoClip"		"255 255 255 255"
+		"OmpAmmoInClip"			"255 255 255 255"
+		"OmpAmmoInReserve"		"255 255 255 255"
+		"OmpAmmoNoClip"			"255 255 255 255"
 
-		"OmpPositive"		"125 225 30 255"
-		"OmpNegative"		"225 30 30 255"
+		"OmpAmmoInClipLow"		"225 30 30 255"
+		"OmpAmmoInReserveLow"	"225 30 30 255"
+		"OmpAmmoNoClipLow"		"225 30 30 255"
+
+		"OmpDamagePositive"		"125 225 30 255"
+		"OmpDamageNegative"		"255 255 30 255"
+		"OmpDamageFixed"		"255 255 30 255"
+
+		"OmpSpectatorHealth"		"255 255 255 255"
+		"OmpSpectatorHealthBonus"	"125 225 30 255"
+		"OmpSpectatorHealthDying"	"255 200 30 255"
+		"OmpSpectatorHealthBG"		"60 60 60 255"
+		"OmpSpectatorHealthBGBonus"	"30 60 0 255"
+		"OmpSpectatorHealthBGDying"	"90 0 0 255"
 
 		// base colors
 		"Orange"			"178 82 22 255"

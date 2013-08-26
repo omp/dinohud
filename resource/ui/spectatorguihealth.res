@@ -5,7 +5,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SpectatorGUIHealthValue"
 		"font"			"UbuntuBold16"
-		"fgcolor"		"OmpText"
+		"fgcolor"		"OmpSpectatorHealth"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
@@ -29,7 +29,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"60 60 60 255"
+		"fillcolor"		"OmpSpectatorHealthBG"
 	}
 	"SpectatorGUIHealthBGBonus"
 	{
@@ -44,7 +44,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 60 0 255"
+		"fillcolor"		"OmpSpectatorHealthBGBonus"
 		"alpha"			"0"
 	}
 	"SpectatorGUIHealthBGDying"
@@ -60,7 +60,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"100 0 0 255"
+		"fillcolor"		"OmpSpectatorHealthBGDying"
 		"alpha"			"0"
 	}
 	"PlayerStatusHealthImage"

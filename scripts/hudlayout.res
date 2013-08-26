@@ -491,8 +491,8 @@
 		"IconColor"		"255 255 255 255"
 		"LocalPlayerColor"	"0 0 0 255"
 
-		"BaseBackgroundColor"	"30 30 30 225"
-		"LocalBackgroundColor"	"225 225 225 225"
+		"BaseBackgroundColor"	"OmpBackground"
+		"LocalBackgroundColor"	"OmpBackgroundBright"
 	}
 
 	HudVehicle
