@@ -39,6 +39,9 @@ Scheme
 		"OmpAmmoInReserveLow"	"225 30 30 255"
 		"OmpAmmoNoClipLow"		"225 30 30 255"
 
+		"OmpMedicCharge"		"255 255 255 255"
+		"OmpMedicFullyCharged"	"125 225 30 255"
+
 		"OmpDamagePositive"		"125 225 30 255"
 		"OmpDamageNegative"		"255 255 30 255"
 		"OmpDamageFixed"		"255 255 30 255"
