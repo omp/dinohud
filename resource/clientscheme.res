@@ -40,6 +40,8 @@ Scheme
 		"OmpAmmoInReserveLow"	"225 30 30 255"
 		"OmpAmmoNoClipLow"		"225 30 30 255"
 
+		"OmpDemomanPipes"		"255 255 255 255"
+		"OmpEngineerMetal"		"255 255 255 255"
 		"OmpMedicCharge"		"255 255 255 255"
 		"OmpMedicFullyCharged"	"125 225 30 255"
 
