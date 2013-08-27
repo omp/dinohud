@@ -8,7 +8,7 @@
 		"ypos"				"0"
 		"zpos"				"1"
 		"wide"				"150"
-		"tall"				"32"
+		"tall"				"30"
 		"visible"			"0"
 		"enabled"			"1"
 		"delta_item_x"			"102"
@@ -17,7 +17,7 @@
 		"PositiveColor"			"OmpPositive"
 		"NegativeColor"			"OmpNegative"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"Ubuntu16"
+		"delta_item_font"		"Ubuntu14"
 		
 		"TimePanelValue"
 		{
@@ -29,7 +29,7 @@
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"46"
-			"tall"			"20"
+			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"

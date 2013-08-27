@@ -2351,6 +2351,16 @@ Scheme
 			}
 		}
 
+		"Ubuntu14"
+		{
+			"1"
+			{
+				"name"		"Ubuntu"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 		"Ubuntu16"
 		{
 			"1"

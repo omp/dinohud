@@ -41,7 +41,7 @@
 		"xpos"	"c-125"
 		"ypos"	"0"
 		"wide"	"250"
-		"tall"	"32"
+		"tall"	"30"
 		
 		"blue_active_xpos"			"50"
 	
