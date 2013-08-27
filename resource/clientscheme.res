@@ -2443,6 +2443,16 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"Roboto14"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 		"Roboto16"
 		{
 			"1"
