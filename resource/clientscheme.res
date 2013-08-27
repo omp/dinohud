@@ -22,6 +22,7 @@ Scheme
 		"OmpShadow"		"30 30 30 125"
 
 		"OmpBackground"			"30 30 30 225"
+		"OmpBackgroundLight"	"30 30 30 125"
 		"OmpBackgroundBright"	"225 225 225 225"
 
 		"OmpPositive"	"125 225 30 255"
@@ -2428,6 +2429,16 @@ Scheme
 			{
 				"name"		"Roboto"
 				"tall"		"11"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Roboto16"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"16"
 				"additive"	"0"
 				"antialias"	"1"
 			}
