@@ -212,6 +212,9 @@ event HudHealthBonusPulse
 	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealthBonus"	Linear 0.0 0.0
 	Animate SpectatorGUIHealthBGBonus	Alpha		"255"						Linear 0.0 0.0
 
+	Animate SpectatorTournamentGUIHealthValue	FgColor		"OmpSpectatorHealthBonus"	Linear 0.0 0.0
+	Animate SpectatorTournamentGUIHealthBGBonus	Alpha		"255"						Linear 0.0 0.0
+
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
 
@@ -227,6 +230,9 @@ event HudHealthBonusPulseStop
 
 	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
 	Animate SpectatorGUIHealthBGBonus	Alpha		"0"							Linear 0.0 0.0
+
+	Animate SpectatorTournamentGUIHealthValue	FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
+	Animate SpectatorTournamentGUIHealthBGBonus	Alpha		"0"							Linear 0.0 0.0
 
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
@@ -244,6 +250,9 @@ event HudHealthDyingPulse
 
 	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealthDying"	Linear 0.0 0.0
 	Animate SpectatorGUIHealthBGDying	Alpha		"255"						Linear 0.0 0.0
+
+	Animate SpectatorTournamentGUIHealthValue	FgColor		"OmpSpectatorHealthDying"	Linear 0.0 0.0
+	Animate SpectatorTournamentGUIHealthBGDying	Alpha		"255"						Linear 0.0 0.0
 	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
@@ -260,6 +269,9 @@ event HudHealthDyingPulseStop
 
 	Animate SpectatorGUIHealthValue		FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
 	Animate SpectatorGUIHealthBGDying	Alpha		"0"							Linear 0.0 0.0
+
+	Animate SpectatorTournamentGUIHealthValue	FgColor		"OmpSpectatorHealth"		Linear 0.0 0.0
+	Animate SpectatorTournamentGUIHealthBGDying	Alpha		"0"							Linear 0.0 0.0
 
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0

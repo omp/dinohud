@@ -22,6 +22,8 @@ Scheme
 		"OmpShadow"		"30 30 30 125"
 
 		"OmpBackground"			"30 30 30 225"
+		"OmpBackgroundOpaque"	"30 30 30 255"
+		"OmpBackgroundMedium"	"30 30 30 175"
 		"OmpBackgroundLight"	"30 30 30 125"
 		"OmpBackgroundBright"	"225 225 225 225"
 
@@ -55,6 +57,9 @@ Scheme
 		"OmpSpectatorHealthBG"		"60 60 60 255"
 		"OmpSpectatorHealthBGBonus"	"30 60 0 255"
 		"OmpSpectatorHealthBGDying"	"90 0 0 255"
+
+		"OmpSpectatorMedicCharge"	"125 225 30 255"
+		"OmpSpectatorRespawnTime"	"225 30 225 255"
 
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -2502,6 +2507,17 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+
+		"BlocksSharp64"
+		{
+			"1"
+			{
+				"name"		"Blocks"
+				"tall"		"64"
+				"additive"	"0"
+				"antialias"	"0"
+			}
+		}
 	}
 
 	//
@@ -4372,6 +4388,11 @@ Scheme
 		{
 			"font" "resource/Roboto-Regular.ttf"
 			"name" "Roboto"
+		}
+		"10"
+		{
+			"font" "resource/Blocks.ttf"
+			"name" "Blocks"
 		}
 	}
 }
