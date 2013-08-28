@@ -2400,6 +2400,16 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"Ubuntu48"
+		{
+			"1"
+			{
+				"name"		"Ubuntu"
+				"tall"		"48"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 
 		"UbuntuBold16"
 		{
@@ -2478,6 +2488,16 @@ Scheme
 			{
 				"name"		"Roboto"
 				"tall"		"16"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"Roboto32"
+		{
+			"1"
+			{
+				"name"		"Roboto"
+				"tall"		"32"
 				"additive"	"0"
 				"antialias"	"1"
 			}
