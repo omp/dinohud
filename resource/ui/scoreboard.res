@@ -5,7 +5,7 @@
 		"ControlName"		"CTFClientScoreBoardDialog"
 		"fieldName"		"scoreinfo"
 		"xpos"			"c-380"
-		"ypos"			"0"
+		"ypos"			"c-240"
 		"wide"			"760"
 		"tall"			"480"
 		"autoResize"	"0"
