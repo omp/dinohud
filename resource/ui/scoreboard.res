@@ -68,7 +68,8 @@
 		
 		if_mvm
 		{
-			"visible"		"0"
+			"xpos"			"100"
+			"wide"			"560"
 		}
 	}
 	"MainBG"
@@ -85,6 +86,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"OmpBackground"
+		
+		if_mvm
+		{
+			"tall"			"256"
+		}
 	}							
 	"SidebarBG"
 	{
@@ -100,6 +106,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"OmpBackgroundLight"
+
+		if_mvm
+		{
+			"tall"			"300"
+		}
 	}
 	"BlueTeamLabel"
 	{
@@ -302,11 +313,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"OmpText"
-		
-		if_mvm
-		{
-			"ypos"			"0"
-		}
 	}
 	"ServerTimeLeft"
 	{
@@ -324,11 +330,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"OmpText"
-		
-		if_mvm
-		{
-			"ypos"			"0"
-		}
 	}							
 	"BluePlayerList"
 	{
@@ -418,7 +419,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"428"
+			"ypos"		"390"
 		}
 	}	
 	"SpectatorsInQueue"
