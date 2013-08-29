@@ -16,7 +16,7 @@
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"TargetBG"
+		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"

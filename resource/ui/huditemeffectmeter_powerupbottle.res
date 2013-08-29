@@ -1,13 +1,13 @@
-"Resource/UI/HudItemEffectMeter_Sniper.res"
+"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r88"
+		"xpos"			"224"
 		"ypos"			"r26"
-		"wide"			"80"
+		"wide"			"50"
 		"tall"			"18"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -29,26 +29,41 @@
 		"fillcolor"		"OmpBackground"
 	}
 	
+	"ItemEffectIcon"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"ItemEffectIcon"
+		"xpos"			"2"
+		"ypos"			"1"
+		"zpos"			"1"
+		"wide"			"16"
+		"tall"			"16"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/ico_powerup_critboost_red"
+		"scaleImage"	"1"
+	}
+	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"4"
-		"ypos"					"0"
+		"xpos"					"9999"
+		"ypos"					"9999"
 		"zpos"					"2"
-		"wide"					"44"
-		"tall"					"18"
+		"wide"					"56"
+		"tall"					"25"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
-		"textAlignment"			"west"
+		"textAlignment"			"north"
+		"centerwrap"			"1"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Roboto11"
-		"fgcolor_override"		"OmpText"
+		"font"					"TFFontSmall"
 	}
 
 	"ItemEffectMeter"
@@ -58,11 +73,8 @@
 		"font"					"Default"
 		"xpos"					"25"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"40"
-		"wide_minmode"			"50"
 		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -77,7 +89,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"52"
+		"xpos"					"22"
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"24"
@@ -91,6 +103,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Ubuntu16"
-		"fgcolor"				"OmpText"
+		"fgcolor_override"		"OmpText"
 	}
 }
