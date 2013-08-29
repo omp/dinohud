@@ -55,8 +55,8 @@ Scheme
 		"OmpSpectatorHealthBonus"	"125 225 30 255"
 		"OmpSpectatorHealthDying"	"255 200 30 255"
 		"OmpSpectatorHealthBG"		"60 60 60 255"
-		"OmpSpectatorHealthBGBonus"	"30 60 0 255"
-		"OmpSpectatorHealthBGDying"	"90 0 0 255"
+		"OmpSpectatorHealthBGBonus"	"30 60 60 255"
+		"OmpSpectatorHealthBGDying"	"125 30 75 255"
 
 		"OmpSpectatorMedicCharge"	"125 225 30 255"
 		"OmpSpectatorRespawnTime"	"225 30 225 255"
