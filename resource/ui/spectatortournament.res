@@ -11,11 +11,11 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"0"
-		"team1_player_base_y"				"145"
+		"team1_player_base_y"				"143"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-17"
 		"team2_player_base_offset_x"		"0"
-		"team2_player_base_y"				"175"
+		"team2_player_base_y"				"171"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"17"
 		
@@ -453,7 +453,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r210"
+		"xpos"			"r208"
 		"ypos"			"c110"
 		"zpos"			"1"
 		"wide"			"200"

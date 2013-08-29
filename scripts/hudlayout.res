@@ -457,9 +457,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"
-		"ypos"	 "8" // omp -- -2 aesthetic adjustment.
-		"wide"	 "630"
-		"tall"	 "470"
+		"ypos"	 "6" // omp -- -2 aesthetic adjustment.
+		"wide"	 "632"
+		"tall"	 "472"
 
 		"MaxDeathNotices" "4"
 		"IconScale"	  "0.35"
@@ -1200,7 +1200,7 @@
 		"fieldName"				"HudInspectPanel"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"r210"
+		"xpos"					"r208"
 		"ypos"					"c110"
 		"zpos"					"10"
 		"wide"					"200"
