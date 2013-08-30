@@ -32,10 +32,10 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"DisguiseStatusBG"
-		"xpos"			"0"
+		"xpos"			"176"
 		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"208"
+		"wide"			"32"
 		"tall"			"14"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -56,6 +56,38 @@
 		"draw_corner_height" 	"0"	
 	}
 
+	"DisguiseStatusBG2"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"DisguiseStatusBG2"
+		"xpos"			"32"
+		"ypos"			"0"
+		"zpos"			"-1"
+		"wide"			"144"
+		"tall"			"14"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"OmpBackground"
+	}
+
+	"DisguiseStatusBG3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"DisguiseStatusBG2"
+		"xpos"			"176"
+		"ypos"			"0"
+		"zpos"			"-2"
+		"wide"			"32"
+		"tall"			"14"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"OmpBackgroundOpaque"
+	}
+
 	"DisguiseNameLabel"
 	{	
 		"ControlName"	"CExLabel"
@@ -64,7 +96,7 @@
 		"xpos"			"42"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"100"
+		"wide"			"64"
 		"tall"			"14"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -82,10 +114,10 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"WeaponNameLabel"
 		"font"			"Roboto9"
-		"xpos"			"144"
+		"xpos"			"108"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"54"
+		"wide"			"58"
 		"tall"			"14"
 		"autoResize"		"0"
 		"pinCorner"		"0"
