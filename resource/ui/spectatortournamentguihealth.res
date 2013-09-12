@@ -10,7 +10,7 @@
 		"ypos"			"0"
 		"zpos"			"5"
 		"wide"			"32"
-		"tall"			"13" // omp -- -1 aesthetic adjustment.
+		"tall"			"14" // omp -- -1 aesthetic adjustment, +1 for low-res grid.
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
@@ -24,7 +24,7 @@
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"32"
-		"tall"			"14"
+		"tall"			"15" // omp -- +1 for low-res grid.
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -39,7 +39,7 @@
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"32"
-		"tall"			"14"
+		"tall"			"15" // omp -- +1 for low-res grid.
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -55,7 +55,7 @@
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"32"
-		"tall"			"14"
+		"tall"			"15" // omp -- +1 for low-res grid.
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
