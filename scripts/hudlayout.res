@@ -1141,10 +1141,10 @@
 		"fieldName"				"HudArenaPlayerCount"		
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"0"
+		"xpos"					"c-125"
 		"ypos"					"0"
-		"wide"					"f0"
-		"tall"					"50"
+		"wide"					"250"
+		"tall"					"18"
 	}	
 	
 	"HudAchievementTracker"

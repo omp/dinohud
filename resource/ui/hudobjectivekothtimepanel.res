@@ -29,7 +29,7 @@
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"46"
-			"tall"			"17"
+			"tall"			"17" // omp -- -1 aesthetic adjustment.
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"
@@ -66,7 +66,7 @@
 			"ypos"			"0"
 			"zpos"			"3"
 			"wide"			"46"
-			"tall"			"17"
+			"tall"			"17" // omp -- -1 aesthetic adjustment.
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"
