@@ -365,29 +365,27 @@
 		
 		if_mvm
 		{
-			"xpos"			"c-190"
-			"ypos"			"1"
-			"wide"			"380"
-			"textAlignment"		"center"
+			"ypos"			"104"
 		}
 	}
 	"BuyBackLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BuyBackLabel"
-		"xpos"			"c-190"
-		"ypos"			"16"
-		"wide"			"380"
-		"tall"			"14"
+		"xpos"			"c-300"
+		"ypos"			"124"
+		"wide"			"600"
+		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#TF_PVE_Buyback"
 		"textAlignment"	"center"
-		"font"			"HudFontSmall"
+		"font"			"Roboto14"
 		"wrap"			"1"
 		"centerwrap"	"1"
+		"fgcolor"		"OmpText"
 	
 		if_mvm
 		{
