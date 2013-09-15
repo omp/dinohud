@@ -987,9 +987,8 @@
 		"fieldName"				"HudTeamGoalTournament"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-160"
-		"ypos"					"15"
-		"ypos_lodef"			"75"
+		"xpos"					"9999"
+		"ypos"					"9999"
 		"wide"					"320"
 		"tall"					"245"
 	}
