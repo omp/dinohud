@@ -814,10 +814,10 @@
 		"fieldName"				"ArenaWinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-225"
-		"ypos"					"250"
-		"wide"					"450"
-		"tall"					"218"
+		"xpos"					"c-180"
+		"ypos"					"r142"
+		"wide"					"360"
+		"tall"					"142"
 	}
 	
 	PVEWinPanel
@@ -1027,7 +1027,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-15"
-		"ypos"					"442"
+		"ypos"					"r32"
 		"wide"					"30"
 		"tall"					"30"
 		"zpos"					"99"
@@ -1121,6 +1121,7 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"r320"
+		"zpos"					"3" // omp -- place above health.
 		"wide"					"f0"
 		"tall"					"320"
 	}
