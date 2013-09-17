@@ -83,7 +83,6 @@
 		"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"c66"
-		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
 		"tall"			"68"
 		"MeterFG"		"White"
@@ -97,7 +96,6 @@
 		"enabled"		"1"
 		"xpos"			"c-100"
 		"ypos"			"c114"
-		"zpos"			"1"			// draw in front of ammo
 		"wide"			"200"
 		"tall"			"6"
 		"MeterFG"		"White"
