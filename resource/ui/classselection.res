@@ -741,6 +741,10 @@
 		"depressedFgColor_override" "OmpPositive"
 		"selectedFgColor_override" "OmpText"
 
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
+
 		"paintbackground"	"0"
 		"textinsetx"		"0"
 	}
@@ -770,6 +774,10 @@
 		"depressedFgColor_override" "OmpPositive"
 		"selectedFgColor_override" "OmpText"
 
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
+
 		"paintbackground"	"0"
 		"textinsetx"		"0"
 	}
@@ -798,6 +806,10 @@
 		"armedFgColor_override" "OmpPositive"
 		"depressedFgColor_override" "OmpPositive"
 		"selectedFgColor_override" "OmpText"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
 
 		"paintbackground"	"0"
 		"textinsetx"		"0"
