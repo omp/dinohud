@@ -223,35 +223,22 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"32"
-		"ypos"			"434"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"6"
-		"wide"			"96"
-		"tall"			"14"
+		"wide"			"150"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"Cancel" // omp -- this seems to be broken.
-		"textAlignment"	"west"
+		"labelText"		"#TF_Cancel"
+		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"cancelmenu"
-		"font"			"Roboto11"
-
-		"fgcolor"			"OmpText"
-		"defaultFgColor_override" "OmpText"
-		"armedFgColor_override" "OmpPositive"
-		"depressedFgColor_override" "OmpPositive"
-		"selectedFgColor_override" "OmpText"
-
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
-
-		"paintbackground"	"0"
-		"textinsetx"		"0"
+		"font"			"MenuSmallFont"
 	}
 	
 	"TeamMenuSelect"
