@@ -75,7 +75,7 @@
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"-1"
-		"wide"			"400"
+		"wide"			"450"
 		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"
@@ -94,9 +94,9 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"MvMPlayerList"
-		"xpos"			"180"
+		"xpos"			"155"
 		"ypos"			"138"
-		"wide"			"400"
+		"wide"			"450"
 		"tall"			"144"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -199,6 +199,20 @@
 			"tall"			"60"
 			"wide"			"200"
 			"visible"		"1"
+		}
+
+		"RespecStatusLabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"RespecStatusLabel"
+			"font"			"HudFontSmall"
+			"labelText"		"%respecstatus%"
+			"textAlignment" "north-west"
+			"xpos"			"180"
+			"ypos"			"8"
+			"wide"			"220"
+			"tall"			"40"
+			"fgcolor"		"tanlight"
 		}
 	}
 }

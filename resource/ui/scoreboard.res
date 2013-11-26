@@ -14,7 +14,7 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"avatar_width"		"57"
-		"name_width"		"124"
+		"name_width"		"105"
 		"status_width"		"15"
 		"nemesis_width"		"15"
 		"class_width"		"15"

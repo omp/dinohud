@@ -159,6 +159,21 @@
 		"scaleImage"	"1"
 	}
 	
+	"KillStreakIcon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"KillStreakIcon"
+		"xpos"			"39"
+		"ypos"			"25"
+		"zpos"			"12"
+		"wide"			"8"
+		"tall"			"8"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"../hud/leaderboard_streak"
+		"scaleImage"	"1"
+	}
+	
 	"MoveableSubPanel"
 	{
 		"ControlName"		"EditablePanel"
