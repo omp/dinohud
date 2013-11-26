@@ -114,7 +114,7 @@
 		"xpos"			"180"
 		"ypos"			"286"
 		"wide"			"400"
-		"tall"			"100"
+		"tall"			"120"
 		"visible"		"1"
 		
 		"CreditStatsBackground"
@@ -207,11 +207,11 @@
 			"fieldName"		"RespecStatusLabel"
 			"font"			"HudFontSmall"
 			"labelText"		"%respecstatus%"
-			"textAlignment" "north-west"
-			"xpos"			"180"
-			"ypos"			"8"
-			"wide"			"220"
-			"tall"			"40"
+			"textAlignment" "center"
+			"xpos"			"0"
+			"ypos"			"104"
+			"wide"			"400"
+			"tall"			"16"
 			"fgcolor"		"tanlight"
 		}
 	}

@@ -89,7 +89,7 @@
 		
 		if_mvm
 		{
-			"tall"			"256"
+			"tall"			"276"
 		}
 	}							
 	"SidebarBG"
@@ -109,7 +109,7 @@
 
 		if_mvm
 		{
-			"tall"			"300"
+			"tall"			"320"
 		}
 	}
 	"BlueTeamLabel"
@@ -419,7 +419,7 @@
 		
 		if_mvm
 		{
-			"ypos"		"390"
+			"ypos"		"410"
 		}
 	}	
 	"SpectatorsInQueue"
