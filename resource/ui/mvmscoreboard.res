@@ -75,7 +75,7 @@
 		"xpos"			"9999"
 		"ypos"			"9999"
 		"zpos"			"-1"
-		"wide"			"450"
+		"wide"			"550"
 		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"
@@ -94,9 +94,9 @@
 	{
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"MvMPlayerList"
-		"xpos"			"155"
+		"xpos"			"115"
 		"ypos"			"138"
-		"wide"			"450"
+		"wide"			"530"
 		"tall"			"144"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -148,8 +148,8 @@
 			"textAlignment" "north-west"
 			"xpos"			"9999"
 			"ypos"			"9999"
-			"wide"			"200"
-			"tall"			"40"
+			"wide"			"100"
+			"tall"			"25"
 			"fgcolor"		"tanlight"
 		}
 		
