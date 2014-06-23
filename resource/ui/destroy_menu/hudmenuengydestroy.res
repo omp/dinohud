@@ -16,18 +16,6 @@
 		"iconColor"		"255 255 255 255"
 	}
 
-	"Divider"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"0"
-		"wide"			"436"
-		"tall"			"2"
-		"fillcolor"		"255 222 208 255"
-	}
-	
 	"MainBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -42,6 +30,18 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"OmpBackground"
+	}
+	
+	"Divider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Divider"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"0"
+		"wide"			"436"
+		"tall"			"2"
+		"fillcolor"		"255 222 208 255"
 	}
 	
 	"TopBG"

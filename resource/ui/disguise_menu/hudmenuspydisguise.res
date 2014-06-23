@@ -16,34 +16,6 @@
 		"iconColor"		"255 255 255 255"
 	}
 
-	"Divider"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"1"
-		"wide"			"456"
-		"tall"			"2"
-		"fillcolor"		"255 222 208 255"
-	}
-
-	"SpyIcon"
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"SpyIcon"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"1"
-		"wide"			"45"
-		"tall"			"45"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"hud_spy_disguise_menu_icon"
-		"iconColor"		"255 255 255 255"
-	}
-	
 	"MainBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -74,6 +46,34 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"OmpBackground"
+	}
+	
+	"Divider"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Divider"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"1"
+		"wide"			"456"
+		"tall"			"2"
+		"fillcolor"		"255 222 208 255"
+	}
+
+	"SpyIcon"
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"SpyIcon"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"1"
+		"wide"			"45"
+		"tall"			"45"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"icon"			"hud_spy_disguise_menu_icon"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"TitleLabel"
