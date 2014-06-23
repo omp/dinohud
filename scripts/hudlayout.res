@@ -965,7 +965,7 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-61"
+		"xpos"			"c-66"
 		"ypos"			"c88"
 		"zpos"			"1" // omp -- place over item metres.
 		"wide"			"132"
